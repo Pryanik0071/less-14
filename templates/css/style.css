@@ -804,6 +804,7 @@ img {
   .reader-avatar {
     margin-bottom: 14px;
     flex-basis: 35%;
+    min-width: 150px;
   }
 
   .readers-title {
